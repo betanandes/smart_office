@@ -1,0 +1,7 @@
+{
+  "sprints": [
+    { "id": 1, "planned_points": 30, "delivered_points": 20, "ev": 2000, "pv": 2500, "ac": 1800 },
+    { "id": 2, "planned_points": 25, "delivered_points": 25, "ev": 2500, "pv": 2500, "ac": 2400 },
+    { "id": 3, "planned_points": 20, "delivered_points": 15, "ev": 1500, "pv": 2000, "ac": 1600 }
+  ]
+}
