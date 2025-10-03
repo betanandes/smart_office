@@ -163,6 +163,9 @@ Abra http://127.0.0.1:5000/api/gamex/insights → deve trazer dev top, dia de ma
 
 Abra http://127.0.0.1:5000/api/gamex/report → relatório completo.
 
+Abra http://127.0.0.1:5000/api/gamex/lessons → lições aprendidas.
+
+
 Teste http://127.0.0.1:5000/api/gamex/stream → verá eventos sendo emitidos a cada 5s.
 
 📌 Próximos passos
