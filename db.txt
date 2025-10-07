@@ -1,0 +1,28 @@
+{
+  "dashboard": {
+    "acessos": 2456,
+    "faturamento": 32190.75,
+    "jogos_inseridos": 145
+  },
+  "monitoramento": {
+    "usuarios_online": 128,
+    "vendas_dia": 42,
+    "novos_jogos": 3
+  },
+  "insights": {
+    "tendencias": [
+      "Jogos indie com estética retrô estão em alta.",
+      "Promoções aumentam o engajamento em 35%.",
+      "Jogos multiplayer mantêm usuários ativos por mais tempo."
+    ],
+    "kpis": {
+      "retencao": 0.87,
+      "satisfacao": 0.93,
+      "tempo_medio_sessao": "18min"
+    }
+  },
+  "riscos": [
+    {"risco": "Instabilidade no servidor", "impacto": "Alto"},
+    {"risco": "Baixa taxa de conversão em dias úteis", "impacto": "Médio"}
+  ]
+}
