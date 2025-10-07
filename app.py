@@ -308,7 +308,7 @@ import google.generativeai as genai
 app = Flask(__name__)
 CORS(app)
 
-genai.configure(api_key="SUA_CHAVE_API_GEMINI")
+genai.configure(api_key="AIzaSyDul9kdRnCBkm8LCWHAVzHmrlxLU03Jo_M")
 
 DB_PATH = "db.txt"
 
